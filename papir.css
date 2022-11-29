@@ -22,3 +22,8 @@ body{
 a{
     color: white;
 }
+div{
+    width: 670px;
+    background-color: white;
+    margin: 0% auto;
+}
