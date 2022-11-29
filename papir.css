@@ -21,6 +21,8 @@ body{
 }
 a{
     color: white;
+    font-size: 120%;
+    font-weight: bold;
 }
 div{
     width: 670px;
@@ -37,5 +39,8 @@ table{
 td{
     background-color: green;
     height: 60px;
-    text-align: center;
+    text-align: center
+}
+.cai{
+    width: 100%;
 }
